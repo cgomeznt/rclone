@@ -17,7 +17,7 @@ Descargamos el comprimido que tiene el binario::
 	unzip rclone-current-linux-amd64.zip
 	cd rclone-*-linux-amd64
 
-Copiamos el binario en el directorio correspondient :
+Copiamos el binario en el directorio correspondient ::
 
 	cp rclone /usr/bin/
 	chown root:root /usr/bin/rclone
