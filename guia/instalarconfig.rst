@@ -199,3 +199,7 @@ y continua el proceso de configuración en el bash.::
 	e/n/d/r/c/s/q> q
 
 
+Y la configuración se guarda en::
+
+	/home/cgomez/.config/rclone/rclone.conf"
+
